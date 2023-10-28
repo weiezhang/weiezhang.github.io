@@ -1,12 +1,12 @@
 ---
 layout: archive
 title: "Publications"
-layout: default
+layout: archive
 permalink: /publications/
 author_profile: true
 ---
 
-
+{% include base_path %}
 
 ## Journal Papers
 
