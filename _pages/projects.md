@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Funding and Grants
+# Funding and Grants
 
 * 2023-2026, Early-Career Industry Fellowships 2023 (AUD $420K), funded by Australian Research Council (ARC) 
 * 2023-2026, Next Generation Graduates Program, CSIRO.
