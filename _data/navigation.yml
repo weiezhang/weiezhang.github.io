@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Professional Activities"
+    url: /activities/    
+        
+  - title: "Funding & Projects"
+    url: /projects/
+
+  - title: "Teaching"
+    url: /teaching/    
