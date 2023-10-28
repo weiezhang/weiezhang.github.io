@@ -8,7 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Teaching
 
 #### 2023
        - Course coordinator, Artificial Intelligence (COMP SCI 3007/7059) 
