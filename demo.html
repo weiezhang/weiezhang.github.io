@@ -1,0 +1,376 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>PQADUP: Open Knowledge-powered Question Answering</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <script src="js/d3.v3.js" charset="utf-8"></script>
+    <link href="css/style.css" rel="stylesheet" />
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+    <div id="wrap">
+        <div class="navbar navbar-inverse navbar-fixed-top" style="background-color:#FFF;" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand" style="color:#079CFE;">TAQA: Open Knowledge Powered Questions Answering</a>
+                </div>
+                <div class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="projects_1.html">Intro</a></li>
+                        <li class="active"><a href="demo.html">Online Demo</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row formrow">
+                <div class="col-lg-8 col-centered">
+                    <div class="input-group">
+                        <div class="input-group-btn">
+                            <button id="btnServSel" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">nOKB+ <span class="caret"></span></button>
+                            <ul class="dropdown-menu">
+                                <li><a href="#" value="nOKB+" onclick="sel(this);">nOKB+</a></li>
+                            </ul>
+                        </div>
+                        <input id="query" type="text" class="form-control" placeholder="Input Query" value="Where did Barack Obama go to college in 1991?" />
+                        <span class="input-group-btn">
+                            <button class="btn btn-primary" type="submit" onclick="onSubmit();return false;">Query!</button>
+                        </span>
+                    </div>
+                </div>
+                <!-- <div class="col-lg-12 col-centered">
+                    <div class="form-group">
+                        <div class="col-lg-1"></div>
+                        <div class="col-lg-3">
+                            <input id="subject" type="text" class="form-control" placeholder="Subject (e.g. 'Billy D Williams')" />
+                        </div>
+                        <div class="col-lg-3">
+                            <input id="predicate" type="text" class="form-control" placeholder="Predicate (e.g. 'play')" />
+                        </div>
+                        <div class="col-lg-3">
+                            <input id="arguments" type="text" class="form-control" placeholder="Arguments (e.g. '[?];in star wars')" />
+                        </div>
+                        <div class="col-lg-1">
+                            <button class="btn btn-primary" type="submit" onclick="onSubmitSep();return false;">Query!</button>
+                        </div>
+                    </div>
+                </div> -->
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-centered">
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">Results</h3>
+                        </div>
+                        <p id="candLoader" class="text-center hidden">
+                            <img src="/static/loadinfo.gif" />
+                        </p>
+                        <ul id="result" class="list-group">
+                            <li class="list-group-item hidden">
+                                <a href="" class="cand" onclick="onCandClick(this);return false;">{0}</a><span class="pull-right">{1}</span>
+                                <div class="candInfo hidden">
+                                    <p><span class="label label-info">Statement</span></p>
+                                    <pre class="tuplequery">{2}</pre>
+                                    <p><span class="label label-info">Tuple Query</span></p>
+                                    <pre class="tuplequery">{3}</pre>
+                                    <p><span class="label label-info">Retrieved Assertions</span></p>
+                                    <pre class="tuplequery">{4}</pre>
+                                </div>
+                            </li>
+                        </ul>
+                        <p id="timeelasped" class="list-group-item text-right hidden"></p>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        <div id="push"></div>
+    </div>
+
+    <div id="footer" class="text-center text-muted">
+          Copyright 2015 HKU
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="errorDlg" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                </div>
+                <div class="modal-body">
+                    Error occured! Pls contact pcyin@cs.hku.hk.
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+    <!-- /.modal -->
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/static/js/bootstrap.min.js"></script>
+    <script src="/static/js/typeahead.js"></script>
+    <script>
+        var servName;
+        var servUrl;
+
+        function getParameterByName(name) {
+            name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+            var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                results = regex.exec(location.search);
+            return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+        }
+
+        $(function () {
+            localStorage.clear();
+            //servName = 'WikiAssertions';
+            //servUrl = "wikiassertion";
+            //$('#btnServSel').html(servName + '<span class="caret"></span>');
+
+            var q = getParameterByName('q');
+            if(q!=null && q!="")
+            {
+                $('#query').val(q);
+                onSubmit();
+            }
+        });
+
+        function sel(ele) {
+            servName = $(ele).html();
+            servUrl = $(ele).attr('value');
+            $('#btnServSel').html(servName + '<span class="caret"></span>');
+        }
+
+        function onSubmit() {
+            var query = $('#query').val();
+            $("#timeelasped").addClass('hidden');
+            $("#candLoader").removeClass('hidden');
+            $.get("answer/" + query, { }, function (data) {
+                //var time = data.substring(0, data.indexOf('#'));
+                //var ans = data.substring(data.indexOf('#') + 1);
+                var ans = data
+                $("#result").html(ans);
+                $("#candLoader").addClass('hidden');
+                $("#timeelasped").html(time + 'ms elapsed');
+                $("#timeelasped").removeClass('hidden');
+            }).error(function (data) {
+                $("#candLoader").addClass('hidden');
+                $('#errorDlg').modal();
+            });
+        }
+
+        function onSubmitSep() {
+            var sbj = $('#subject').val();
+            var pre = $('#predicate').val();
+            var arguments = $('#arguments').val();
+
+            $("#timeelasped").addClass('hidden');
+            $("#candLoader").removeClass('hidden');
+            $.post("OpenQA.ashx", { s: sbj, p: pre, a: arguments, m: servUrl, t: 'arg' }, function (data) {
+                var time = data.substring(0, data.indexOf('#'));
+                var ans = data.substring(data.indexOf('#') + 1);
+                $("#result").html(ans);
+                $("#candLoader").addClass('hidden');
+                $("#timeelasped").html(time + 'ms elapsed');
+                $("#timeelasped").removeClass('hidden');
+            }).error(function (data) {
+                $("#candLoader").addClass('hidden');
+                $('#errorDlg').modal();
+            });
+        }
+
+        function onCandClick(ele) {
+            var cand = $(ele);
+            var info = cand.siblings('.candInfo');
+            if (info.hasClass('hidden')) {
+                info.removeClass('hidden');
+            }else{
+                info.addClass('hidden');
+            }
+        }
+
+        function onBtnEntityDescClick(ele, entity_str, entity_rels_data) {
+            var desc = $(ele).next();
+            
+            if (desc.hasClass('hidden'))
+            {
+                desc.removeClass('hidden');
+                desc.html('<div class="text-center"><img src="ajax-loader-entitydesc.gif" /></div>');
+                $.post("QueryEntityDesc.ashx", { q: entity_str, m: servUrl }, function (data) {
+                    desc.empty();
+                    entity_rels = new Array();
+
+                    entity_rels_data.split('#').forEach(function (x) {
+                        var d = x.split('|');
+                        entity_rels.push({ subject: d[0].toLowerCase(), object: d[1].toLowerCase() });
+                    });
+
+                    data = data.split('\n');
+                    var descs = new Array();
+                    var boosted = new Array(data.length);
+                    for (i = 0; boosted[i]; i++)
+                        boosted[i] = false;
+
+                    for (i = 0; entity_rels[i]; i++)
+                    {
+                        for(j=0; data[j]; j++)
+                        {
+                            if (boosted[j])
+                                continue;
+                            var line = data[j].toLowerCase();
+                            if (line.indexOf(entity_rels[i].subject) >= 0 && line.indexOf(entity_rels[i].object) >= 0)
+                            {
+                                descs.push(data[j]);
+                                boosted[j] = true;
+                            }
+                        }
+                    }
+
+                    for (i = 0; i < data.length ; i++)
+                    {
+                        if(!boosted[i])
+                        {
+                            descs.push(data[i]);
+                        }
+                    }
+
+                    desc.html(descs.join('\n'));
+                }).error(function (data) {
+                    $('#errorDlg').modal();
+                });
+            }
+            else
+                desc.addClass('hidden');
+        }
+
+        function onBtnLogClick(ele) {
+            var log = $(ele).next();
+            if (log.hasClass('hidden'))
+                log.removeClass('hidden');
+            else
+                log.addClass('hidden');
+        }
+
+        function addLoader(ele) {
+            ele.html('<img src="/static/loadinfo.gif"/>');
+        }
+
+        function drawTree(treeData, panel) {
+            var size = { height: 400, width: 600 };
+            var maxLabelLength = 20;
+            var options = { nodeRadius: 5, fontSize: 12 };
+
+            var tree = d3.layout.tree()
+        .sort(null)
+        .size([size.height, size.width - maxLabelLength * options.fontSize])
+        .children(function (d) {
+            return (!d.contents || d.contents.length === 0) ? null : d.contents;
+        });
+
+            var nodes = tree.nodes(JSON.parse(treeData));
+            var links = tree.links(nodes);
+
+            var layoutRoot = d3.select(panel)
+           .append("svg:svg").attr("width", size.width).attr("height", size.height)
+           .append("svg:g")
+           .attr("class", "container")
+           .attr("transform", "translate(100," + maxLabelLength + ")");
+
+            // Edges between nodes as a <path class="link" />
+            var link = d3.svg.diagonal()
+                .projection(function (d) {
+                    return [d.x, d.y];
+                });
+
+            var linkg = layoutRoot.selectAll("path.link")
+                .data(links)
+                .enter();
+
+            linkg.append("svg:path")
+                .attr("class", "link")
+                .attr("d", link);
+
+            linkg.append("text")
+    .attr("x", function (d) { return (d.source.x + d.target.x) / 2; })
+    .attr("y", function (d) { return (d.source.y + d.target.y) / 2; })
+    .attr("text-anchor", "middle")
+    .text(function (d) {
+        return d.target.label;
+    });
+
+            layoutRoot.selectAll("path.link");
+
+            /*
+                Nodes as
+                <g class="node">
+                    <circle class="node-dot" />
+                    <text />
+                </g>
+             */
+            var nodeGroup = layoutRoot.selectAll("g.node")
+                .data(nodes)
+                .enter()
+                .append("svg:g")
+                .attr("class", "node")
+                .attr("transform", function (d) {
+                    return "translate(" + d.x + "," + d.y + ")";
+                });
+
+            nodeGroup.append("svg:circle")
+                .attr("class", "node-dot")
+                .attr("r", options.nodeRadius);
+
+            nodeGroup.append("svg:text")
+                .attr("text-anchor", function (d) {
+                    return d.children ? "end" : "start";
+                })
+                .attr("dx", function (d) {
+                    var gap = 2 * options.nodeRadius;
+                    return d.children ? -gap : gap;
+                })
+                .attr("dy", 3)
+                .text(function (d) {
+                    return d.name;
+                });
+
+
+            var labels = layoutRoot.selectAll('text[text-anchor="middle"]');
+            var prev;
+            var dir = 1;
+            labels.each(function (d, i) {
+                if (i > 0) {
+                    //var thisbb = this.getBoundingClientRect(),
+                    //    prevbb = prev.getBoundingClientRect();
+                    // move if they overlap
+                    //if (!(thisbb.right < prevbb.left ||
+                    //        thisbb.left > prevbb.right ||
+                    //        thisbb.bottom < prevbb.top ||
+                    //        thisbb.top > prevbb.bottom)) {
+                        d3.select(this).attr("transform",
+                            "translate(0," + dir * 10 + ")");
+                        dir++;
+                    //}
+                }
+                //prev = this;
+            });
+        }
+    </script>
+</body>
+</html>
