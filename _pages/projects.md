@@ -1,11 +1,12 @@
 ---
 layout: archive
 title: "Projects"
-layout: default
+layout: archive
 permalink: /projects/
 author_profile: true
 ---
 
+{% include base_path %}
 
 ### Funding and Grants
 
