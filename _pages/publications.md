@@ -39,19 +39,9 @@ author_profile: true
 - <li>Adnan Mahmood, <b>Wei Emma Zhang</b>, and Quan Z. Sheng. <i>Software-defined Heterogeneous Vehicular Networking: The Architectural Design and Open Challenges</i>. <a href="https://www.mdpi.com/journal/futureinternet">Future Internet</a>, MDPI, Vol 11, No 3, p70, 2019 (Invited paper, 10th Anniversary Feature Papers).
 - <b>Wei Emma Zhang</b>, Ali Shemshadi, Quan Z. Sheng, Yongrui Qin. <i>A User-Oriented Taxi Ridesharing System with Large-Scale Urban GPS Sensor Data</i>. IEEE Transactions on Big Data (<a href="https://www.computer.org/web/tbd">TBD</a>). In Press. 
 - Tran Khoi Nguyen, Quan Z. Sheng, M. Ali Babar, Lina Yao, <b>Wei Emma Zhang</b>, Schahram Dustdar. <i>Internet of Things Search Engine: Concepts, classification, and open issues</i>. Communications of the ACM (<a href="https://www.computer.org/web/tbd">CACM</a>), Vol. 62, No. 7, pp 66-73, 2019.
-        <!--li>
-	   <b>Wei Emma Zhang</b>, Quan Z. Sheng, Jey Han Lau, Ermyas Abebe, and Wenjie Ruan. <i>Duplicate Detection in Programming Question Answering Communities</i>. ACM Transactions on Internet Technology (<a href="http://toit.acm.org/">TOIT</a>), Vol. 18, No. 3, pp 37:1--37:21, 2017.
-	  </li>
-	  <li>
-	   <b>Wei Emma Zhang</b>, Quan Z. Sheng, Lina Yao, Kerry Taylor, Ali Shemshadi and Yongrui Qin. <i>A Learning Based Framework for Improving Querying on Web Interfaces of Curated Knowledge Bases</i>. ACM Transactions on Internet Technology (<a href="http://toit.acm.org/">TOIT</a>), Vol. 18, No. 3, pp 35:1--35:20, 2017.
-	   </li>	   
-	     <li>
-	   Lina Yao, Quan Z. Sheng, Xianzhi Wang, <b>Wei Emma Zhang</b> and Yongrui Qin. <i>Collaborative Location Recommendation by Integrating Multi-dimensional Contextual Information</i>. ACM Transactions on Internet Technology (<a href="http://toit.acm.org/">TOIT</a>), Vol. 18, No. 3, pp 32:1--32:24, 2017.
-	   </li>
-	   	    
-	   <li>
-	   <b>Wei Emma Zhang</b>, Quan Z. Sheng, Yongrui Qin, Kerry Taylor, and Lina Yao. <i>Learning-based SPARQL Query Performance Modeling and Prediction</i>. <a href="http://www.springer.com/computer/database+management+%26+information+retrieval/journal/11280">World Wide Web Journal </a>, Vol. 21, Issue 4, pp 1015-1035, 2017, Springer.
-	   </li>
-	   <li>
-	   Ali Shemshadi, Quan Z. Sheng, <b>Wei Emma Zhang</b>, Aixin Sun, Yongrui Qin and Lina Yao. <i>Searching for the Internet of Things on the Web: Where It Is and What It Looks Like</i>. Personal and Ubiquitous Computing (<a href="http://www.springer.com/computer/hci/journal/779">PUC</a>), Vol. 21, No. 6, pp 2097-1112, 2017. 
-	   </li-->
+- <b>Wei Emma Zhang</b>, Quan Z. Sheng, Jey Han Lau, Ermyas Abebe, and Wenjie Ruan. <i>Duplicate Detection in Programming Question Answering Communities</i>. ACM Transactions on Internet Technology (<a href="http://toit.acm.org/">TOIT</a>), Vol. 18, No. 3, pp 37:1--37:21, 2017.
+- <b>Wei Emma Zhang</b>, Quan Z. Sheng, Lina Yao, Kerry Taylor, Ali Shemshadi and Yongrui Qin. <i>A Learning Based Framework for Improving Querying on Web Interfaces of Curated Knowledge Bases</i>. ACM Transactions on Internet Technology (<a href="http://toit.acm.org/">TOIT</a>), Vol. 18, No. 3, pp 35:1--35:20, 2017.
+- Lina Yao, Quan Z. Sheng, Xianzhi Wang, <b>Wei Emma Zhang</b> and Yongrui Qin. <i>Collaborative Location Recommendation by Integrating Multi-dimensional Contextual Information</i>. ACM Transactions on Internet Technology (<a href="http://toit.acm.org/">TOIT</a>), Vol. 18, No. 3, pp 32:1--32:24, 2017.
+- <b>Wei Emma Zhang</b>, Quan Z. Sheng, Yongrui Qin, Kerry Taylor, and Lina Yao. <i>Learning-based SPARQL Query Performance Modeling and Prediction</i>. <a href="http://www.springer.com/computer/database+management+%26+information+retrieval/journal/11280">World Wide Web Journal </a>, Vol. 21, Issue 4, pp 1015-1035, 2017, Springer.
+-  Ali Shemshadi, Quan Z. Sheng, <b>Wei Emma Zhang</b>, Aixin Sun, Yongrui Qin and Lina Yao. <i>Searching for the Internet of Things on the Web: Where It Is and What It Looks Like</i>. Personal and Ubiquitous Computing (<a href="http://www.springer.com/computer/hci/journal/779">PUC</a>), Vol. 21, No. 6, pp 2097-1112, 2017. 
+
