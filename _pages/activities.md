@@ -1,10 +1,12 @@
 ---
 layout: archive
 title: "Professional Activities"
-layout: default
+layout: archive
 permalink: /activities/
 author_profile: true
 ---
+
+{% include base_path %}
 
 #### Journal Editorial 
  - Natural Language Processing Journal
