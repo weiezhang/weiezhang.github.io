@@ -8,9 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
-### Research
 
-#### Current Supervison
+## Current Supervison
 - Chang Dong (PhD), The University of Adelaide (principal supervision). Started in July 2023
 - Rohit Gopalan (PhD), The University of Adelaide (co-supervision). Started in May 2023
 - Yutong Qu (PhD), The University of Adelaide (principal supervision). Started in April 2023
@@ -22,7 +21,7 @@ author_profile: true
 - Qiaoyang Luo (PhD), The University of Adelaide (co-supervision). Started in Jan 2020
 - Munazza Zaib (MRes + PhD), Macquarie University (co-supervision), MRes+PhD, Started in Jan 2019
 
-#### Completed Supervision
+## Completed Supervision
 - Ahoud Abdultahmn F Alhazmi (PhD), Macquarie University (co-supervision). Awarded in February 2023, first job as an academic at at Umm AI-Qura University
 - Sarah Ali Siddiqui (PhD), Macquarie University (co-supervision). Awarded in Nov 2022, first job as a CSIRO Data61 PostDoc Fellow
 - Guanhua Wang (PhD), University of Adelaide (co-supervision). Awarded in September 2022, first job as research associate at AIML  
