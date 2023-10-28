@@ -14,16 +14,6 @@ redirect_from:
 * A collaborative work is accepted by Neural Processing Letters. 
 * My ARC Early-Career Industry Fellowships 2023 (IE23) application is successful! 
 * 3 papers are accepted by IJCNN.  			 	  
-	<!--News history-->   
-	 <!--
-	&bull; A journal paper is accepted by TNSM. Congratulaitons Subhash! <br>
-	&bull; A demo paper is accepted by WSDM23. <br> 
-	  &bull; We are funded by CSIRO's Next Generation Graduates Program. PhD recruting will start soon! <br> 
-         &bull; Congratulations to Haojie Zhuang, our DP supported PhD, has an EMNLP paper accepted. <br> 	  
-          &bull; Congratulations to Taotao CAI, our DP supported postdoc, has a TKDE article accepted. <br> 
-          &bull; A collaboration work has been accepted by TSC. <br>	
-	  &bull; Our  survey paper about adversarial attack in NLP is selected as Five Outstanding Articles by EiC of TIST. <br>
-	   &bull; Our survey paper on Multi-document Summarization is accepted by ACM Computing Surveys. <br-->
 
 ## Short Bio
 I am currently a Senior Lecturer and Associate Head of People and Culture at [The School of Computer and Mathematical Sciences](https://set.adelaide.edu.au/mathematical-sciences), [The University of Adelaide](http://www.adelaide.edu.au), and Hornorary Lecturer at [The School of Computing](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing), [Macquarie University](http://www.mq.edu.au/).  
