@@ -90,8 +90,8 @@ author:
   email            : "wei.e.zhang@adelaide.edu.au"
   orcid            : "http://orcid.org/0000-0002-0406-5974"
   researchgate     : "https://www.researchgate.net/profile/Wei-Emma-Zhang"
-  dblp             : "https://dblp.uni-trier.de/pid/147/9092.html"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56285881300"
+  dblp             : #"https://dblp.uni-trier.de/pid/147/9092.html"
+  scopus           : #"https://www.scopus.com/authid/detail.uri?authorId=56285881300"
   semantics        : "https://www.semanticscholar.org/author/W.-Zhang/32794831"
   uri              :
   bitbucket        :
