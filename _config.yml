@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Wei (Emma) Zhang"
   avatar           : "profile.png"
-  bio              : "日拱一卒无有尽，功不唐捐终入海"
+  bio              : "日拱一卒无有尽\n功不唐捐终入海"
   location         : "Adelaide, Australia"
-  employer         : "School of Computer and Mathematical Sciences & Australian Institute for Machine Learning, The University of Adelaide"
+  employer         : "The University of Adelaide"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.au/citations?user=NFzUTiEAAAAJ&hl=en"
   email            : "wei.e.zhang@adelaide.edu.au"
