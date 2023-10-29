@@ -10,7 +10,8 @@ author_profile: true
 
 # Funding and Grants
 
-* 2023-2026, Early-Career Industry Fellowships 2023 (AUD $420K), funded by Australian Research Council (ARC) 
+* 2024, Sustainability FAME Strategy Internal Grant 2023 (AUD $20K), The University of Adelaide.
+* 2023-2026, Early-Career Industry Fellowships 2023 (AUD $420K), Australian Research Council (ARC). 
 * 2023-2026, Next Generation Graduates Program, CSIRO.
 * 2022-2023, Barbara Kidman Women's Fellowship, The University of Adelaide  (AUD $30K).
 * 2021-2022, Sole Investigator, COVID Recognition Fund Scheme, ECMS, The University of Adelaide (AUD $14.6K).
