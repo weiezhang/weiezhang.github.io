@@ -88,6 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.au/citations?user=NFzUTiEAAAAJ&hl=en"
   email            : "wei.e.zhang@adelaide.edu.au"
+  orcid            : "http://orcid.org/0000-0002-0406-5974"
   researchgate     : "https://www.researchgate.net/profile/Wei-Emma-Zhang"
   dblp             : "https://dblp.uni-trier.de/pid/147/9092.html"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56285881300"
@@ -106,7 +107,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-0406-5974"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
