@@ -9,9 +9,11 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Papers
-
-- Zhigang Yang, Xinbo Jia, Yahui Shen, Yuanlan Yang, Huiyang Li, and <b>Wei Emma Zhang</b>. AMGAN: An Attribute-Matched Generative Adversarial Network for UAV Virtual Sample Generation. *Neural Processing Letters*. Accpeted in May 2023.
-- Subhash Sagar, Adnan Mahmood, Kai Wang, Quan Z. Sheng, Jitander Kumar Pabani, and <b>Wei Emma Zhang</b>. <i>Trust-SIoT: Towards Trustworthy Object Classification in Social Internet of Things</i>. IEEE Transactions on Network and Service Management. Accepted in Feburary 2023. 
+- Weitong Chen, <b>Wei Emma Zhang</b>, and Lin Yue. Death Comes But Why: A Multi-Task Memory-Fused Prediction for Accurate and Explainable Illness Severity in ICUs. *WWW Journal*. Accepted in September 2023.
+- Taotao Cai, Qi Lei, Quan Z. Sheng, Ningning Cui, Shuiqiao Yang, Jian Yang,
+<b>Wei Emma Zhang</b>, and Adnan Mahmood. Reconnecting the Estranged Relationships: Optimizing the Influence Propagation in Evolving Networks. *Transactions on Knowledge and Data Engineering*. Accepted in September 2023.
+- Zhigang Yang, Xinbo Jia, Yahui Shen, Yuanlan Yang, Huiyang Li, and <b>Wei Emma Zhang</b>. AMGAN: An Attribute-Matched Generative Adversarial Network for UAV Virtual Sample Generation. *Neural Processing Letters*. Accepted in May 2023.
+- Subhash Sagar, Adnan Mahmood, Kai Wang, Quan Z. Sheng, Jitander Kumar Pabani, and <b>Wei Emma Zhang</b>. Trust-SIoT: Towards Trustworthy Object Classification in Social Internet of Things. *IEEE Transactions on Network and Service Management*. Accepted in February 2023. 
 - Zhigang Yang, Junyu Kong; Binxi Zheng, Ming Li, <b>Wei Emma Zhang</b>, Tao Chen. <i>Object Detection in Remote Sensing Images with Balanced Rotational and Horizontal Bounding Boxes</i>. IEEE Geoscience and Remote Sensing Letters. Accepted in September 2022. 
 - Yutong Qu, <b>Wei Emma Zhang</b>, Jian Yang, Lingfei Wu and Jia Wu. <i>Knowledge-aware Document Summarization: A Survey of Knowledge, Embedding Methods and Architectures</i>. Knowledge-Based Systems 257: 109882 (2022)
 - Munazza Zaib, <b>Wei Emma Zhang</b>, Quan Z. Sheng, Adnan Mahmood and Yang Zhang. <i>Conversational question answering: a survey</i>.  Knowledge and Information Systems. 64(12): 3151-3195 (2022).
