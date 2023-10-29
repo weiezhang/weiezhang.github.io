@@ -46,3 +46,6 @@ author_profile: true
 - Lina Yao, Quan Z. Sheng, Xianzhi Wang, <b>Wei Emma Zhang</b> and Yongrui Qin. "Collaborative Location Recommendation by Integrating Multi-dimensional Contextual Information", *ACM Transactions on Internet Technology*, vol. 18, no. 3, pp 32:1--32:24, 2018. [paper](https://dl.acm.org/doi/10.1145/3134438).
 - <b>Wei Emma Zhang</b>, Quan Z. Sheng, Yongrui Qin, Kerry Taylor, and Lina Yao. "Learning-based SPARQL Query Performance Modeling and Prediction", *World Wide Web Journal* 21, 1015–1035, 2018. [paper](https://link.springer.com/article/10.1007/s11280-017-0498-1#citeas).
 -  Ali Shemshadi, Quan Z. Sheng, <b>Wei Emma Zhang</b>, Aixin Sun, Yongrui Qin and Lina Yao. "Searching for the Internet of Things on the Web: Where It Is and What It Looks Like", *Personal and Ubiquitous Computing*, vol. 21, No. 6, pp 2097-1112, 2017. [paper](https://link.springer.com/article/10.1007/s00779-017-1034-0).
+ 
+## Conference Papers
+- 
