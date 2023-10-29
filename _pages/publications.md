@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Papers
-- Weitong Chen, <b>Wei Emma Zhang</b>, and Lin Yue. Death Comes But Why: A Multi-Task Memory-Fused Prediction for Accurate and Explainable Illness Severity in ICUs. *WWW Journal*. Accepted in September 2023.
+- Weitong Chen, <b>Wei Emma Zhang</b>, and Lin Yue. Death Comes But Why: A Multi-Task Memory-Fused Prediction for Accurate and Explainable Illness Severity in ICUs. *World Wide Web Journal*. Accepted in September 2023.
 - Taotao Cai, Qi Lei, Quan Z. Sheng, Ningning Cui, Shuiqiao Yang, Jian Yang,
 <b>Wei Emma Zhang</b>, and Adnan Mahmood. Reconnecting the Estranged Relationships: Optimizing the Influence Propagation in Evolving Networks. *Transactions on Knowledge and Data Engineering*. Accepted in September 2023.
 - Zhigang Yang, Xinbo Jia, Yahui Shen, Yuanlan Yang, Huiyang Li, and <b>Wei Emma Zhang</b>. AMGAN: An Attribute-Matched Generative Adversarial Network for UAV Virtual Sample Generation. *Neural Processing Letters*. Accepted in May 2023.
