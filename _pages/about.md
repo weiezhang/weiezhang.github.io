@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## News
-* University of Adelaide, FAME strategic funding success.
+* FAME strategic internal funding success.
 * A journal paper is accepted by TKDE. 
 * A journal paper is accepted by WWW journal. 
 * A collaborative work is accepted by Neural Processing Letters. 
