@@ -26,7 +26,7 @@ My current research relates to three specific areas:
 - Text summarization
 - AIoT
 - Adversarial attacks on deep neural models for text
-- Medical information extraction.		
+- Medical information extraction	
 
 ## Recruiting
 I am seeking highly motivated and focused research students with backgrounds and interests in Computer Science, Mathematics, and Engineering. 
