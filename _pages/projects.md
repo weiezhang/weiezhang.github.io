@@ -10,6 +10,7 @@ author_profile: true
 
 # Funding and Grants
 
+* 2024-2026, Chief Investigator, Discovery Project (DP24 AUD $292K),  Australian Research Council (ARC).
 * 2024, Sustainability FAME Strategy Internal Grant 2023 (AUD $20K), The University of Adelaide.
 * 2023-2026, Early-Career Industry Fellowships 2023 (AUD $420K), Australian Research Council (ARC). 
 * 2023-2026, Next Generation Graduates Program, CSIRO.
@@ -19,4 +20,4 @@ author_profile: true
 * 2021, Chief Investigator, 'AI4DecisionMaking' Initiative Phase two (AUD $100K), funded by Office of National Intelligence (ONI) and the Defence Science and Technology (DST) Group. <!--With A/Prof. Markus Wagner, Dr. Chetan Arora, Dr. Menasha Thilakaratne, Dr Thushari Atapattu and Dr. Christoph Treude,--> 
 * 2020, Sole Investigator, 'AI4DecisionMaking' Initiative Phase one (AUD $20K), funded by Office of National Intelligence (ONI) and the Defence Science and Technology (DST) Group.
 * 2020-2021, Sole Investigator, Google Academic Research Grants</a> (USD $5K).
-* 2020-2022, Chief Investigator, Discovery Project ($390K), funded by Australian Research Council (ARC) <!--With Prof. Michael Sheng (Lead CI), Prof Jian Yang and Prof. Schahram Dustdar.--> 
+* 2020-2022, Chief Investigator, Discovery Project (DP20 AUD $390K), Australian Research Council (ARC) <!--With Prof. Michael Sheng (Lead CI), Prof Jian Yang and Prof. Schahram Dustdar.--> 
