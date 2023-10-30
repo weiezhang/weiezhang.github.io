@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## News
+* ARC DP24 success.
 * FAME strategic internal funding success.
 * A journal paper is accepted by TKDE. 
 * A journal paper is accepted by WWW journal. 
