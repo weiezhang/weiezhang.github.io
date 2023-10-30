@@ -13,7 +13,7 @@ author_profile: true
 * 2024-2026, Lead Investigator, Discovery Project (DP24),  Australian Research Council (AUD $292K)
 * 2024, Lead Investigator, Sustainability FAME Strategy Internal Grant 2023, The University of Adelaide (AUD $20K)
 * 2023-2026, Early-Career Industry Fellowships 2023 (IE23), Australian Research Council (AUD $420K)
-* 2023-2026, Next Generation Graduates Program, CSIRO.
+* 2023-2026, Chief Investigator, Next Generation Graduates Program, CSIRO.
 * 2022-2023, Sole Investigator, Barbara Kidman Women's Fellowship, The University of Adelaide (AUD $30K)
 * 2021-2022, Sole Investigator, COVID Recognition Fund Scheme, ECMS, The University of Adelaide (AUD $14.6K)
 * 2021, Sole Investigator, 2021 Early Career Seed Researcher Seed Funding, ECMS, The University of Adelaide (AUD $10K)
