@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## News
-* Congratulations to my student Lipin Guo, who has been awarded an [ACM-W scholarship for research conference attendance](https://women.acm.org/acm-w-scholarship-for-attendance-of-research-conferences-program/). 
+* Congratulations to Lipin Guo, who has been awarded an [ACM-W scholarship for research conference attendance](https://women.acm.org/acm-w-scholarship-for-attendance-of-research-conferences-program/). 
 * ARC DP24 success.
 * FAME strategic internal funding success.
 * A journal paper is accepted by TKDE. 
