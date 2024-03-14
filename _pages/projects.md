@@ -21,4 +21,4 @@ author_profile: true
 * 2021, Chief Investigator, 'AI4DecisionMaking' Initiative Phase two, Office of National Intelligence (ONI) and the Defence Science and Technology (DST) Group (AUD $100K) <!--With A/Prof. Markus Wagner, Dr. Chetan Arora, Dr. Menasha Thilakaratne, Dr Thushari Atapattu and Dr. Christoph Treude,--> 
 * 2020, Sole Investigator, 'AI4DecisionMaking' Initiative Phase one, Office of National Intelligence (ONI) and the Defence Science and Technology (DST) Group (AUD $20K)
 * 2020-2021, Sole Investigator, Google Academic Research Grants (USD $5K)
-* 2020-2022, Chief Investigator, Discovery Project (DP200102298), Australian Research Council (AUD $390K) <!--With Prof. Michael Sheng (Lead CI), Prof Jian Yang and Prof. Schahram Dustdar.--> 
+* 2020-2022, Chief Investigator, Discovery Project (DP20), Australian Research Council (AUD $390K) <!--With Prof. Michael Sheng (Lead CI), Prof Jian Yang and Prof. Schahram Dustdar.--> 
