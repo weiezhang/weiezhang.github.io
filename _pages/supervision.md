@@ -20,13 +20,13 @@ author_profile: true
 - Lauren Yvette Taylor (PhD), The University of Adelaide (co-supervision). Started in February 2023
 - Haojie Zhuang (PhD), The University of Adelaide (principal supervision). Started in October 2021
 - Xinyue Fang (PhD), The University of Adelaide (co-supervision). Started in October 2021
-- Munazza Zaib (MRes + PhD), Macquarie University (co-supervision), MRes+PhD, Started in Jan 2019
 
 ## Completed Supervision
+- Munazza Zaib (MRes + PhD), Macquarie University (co-supervision). Thesis submitted in Jan 2024, first job as PostDoc in Monash University
 - Congbo Ma (PhD), The University of Adelaide (principal supervision). Awarded in Feb 2024, first job as PostDoc in Macquarie University
 -  Ahoud Abdultahmn F Alhazmi (PhD), Macquarie University (co-supervision). Awarded in February 2023, first job as an academic at Umm AI-Qura University
 - Sarah Ali Siddiqui (PhD), Macquarie University (co-supervision). Awarded in Nov 2022, first job as a CSIRO Data61 PostDoc Fellow
-- Guanhua Wang (PhD), University of Adelaide (co-supervision). Awarded in September 2022, first job as research associate at AIML  
+- Guanhua Wang (PhD), University of Adelaide (co-supervision). Awarded in September 2022, first job as a research associate at AIML  
 - Abdulwahab Mohammed M Aljubairy (PhD), Macquarie University (co-supervision). Awarded in Nov 2022, first job as a CSIRO Data61 PostDoc Fellow
 - Zawar Hussain (PhD), Macquarie University (co-supervision). Awarded in Jan 2022, first job as a PostDoc at UNSW
 - Salma Abdalla (PhD), Macquarie University (co-supervision). Awarded in Oct 2021, first job at TCS
