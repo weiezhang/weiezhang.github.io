@@ -11,7 +11,7 @@ redirect_from:
 ## News
 * Call for Papers for [EvalMG25 @ COLING 2025](https://evalmg.github.io/), 19 Jan 2025, Abu Dhabi, UAE.
 * Being selected as 2024 Young Tall Poppy SA Finalist.
-* Congratulations to Chang Dong, Liangwei Zheng, and Haojie Zhuang for papers being accepted by CIKM 2025.
+* Congratulations to Chang Dong, Liangwei Zheng, and Haojie Zhuang for 4 papers being accepted by CIKM 2025.
 * Congratulations to Haojie Zhuang for his paper being accepted by NAACL 2024 main conference.
 * Congratulations to Lipin Guo, who has been awarded an [ACM-W scholarship for research conference attendance](https://women.acm.org/acm-w-scholarship-for-attendance-of-research-conferences-program/). 
 
