@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## News
-* Call for Papers for [EvalMG25 @ COLING 2025](https://evalmg.github.io/), 19 Jan 2025, Abu Dhabi, UAE.
+* Call for Papers for [EvalMG25 @ COLING 2025](https://evalmg.github.io/), 20 Jan 2025, Abu Dhabi, UAE.
 * Being selected as 2024 Young Tall Poppy SA Finalist.
 * Congratulations to Chang Dong, Liangwei Zheng, and Haojie Zhuang for 4 papers being accepted by CIKM 2025.
 * Congratulations to Yutong Qu on being selected as a 2024 IEEE WISC Scholarship winner.
@@ -23,10 +23,10 @@ I also have six years of industry experience in different roles in the industry.
 ## Research Interests
  My interest areas include text mining, natural language processing, information retrieval and Internet of Things applications, but not limited to.
 My current research relates to three specific areas: 
-- Text summarization
-- AIoT
-- Adversarial attacks on deep neural models for text
-- Medical information extraction	
+- Multimodal generation and evaluation
+- Federated Learning in NLP
+- Adversarial attacks on sequential data
+- Artificial Intelligence of Things	
 
 ## Recruiting
 I am seeking highly motivated and focused research students with backgrounds and interests in Computer Science, Mathematics, and Engineering. 
