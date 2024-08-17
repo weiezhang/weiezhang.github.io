@@ -16,7 +16,7 @@ redirect_from:
 * Congratulations to Haojie Zhuang for his paper being accepted by NAACL 2024 main conference.
 
 ## Short Bio
-I am currently a Senior Lecturer and Associate Head of People and Culture at [The School of Computer and Mathematical Sciences](https://set.adelaide.edu.au/mathematical-sciences), researcher of [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/), [The University of Adelaide](http://www.adelaide.edu.au). I am also an Honorary Lecturer at [The School of Computing](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing), [Macquarie University](http://www.mq.edu.au/).  
+I am currently a Senior Lecturer and Associate Head of People and Culture at [The School of Computer and Mathematical Sciences](https://set.adelaide.edu.au/mathematical-sciences), academic member of [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/), [The University of Adelaide](http://www.adelaide.edu.au). I am also an Honorary Lecturer at [The School of Computing](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing), [Macquarie University](http://www.mq.edu.au/).  
 I obtained PhD from the School of Computer Science at the University of Adelaide. Before joining The University of Adelaide, I spent two years at Macquarie University as a Postdoctoral Research Fellow. 
 		
 ## Research Interests
