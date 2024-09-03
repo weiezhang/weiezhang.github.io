@@ -8,6 +8,16 @@ author_profile: true
 
 {% include base_path %}
 
+## Monograph
+- <b>Wei Emma Zhang</b>, Quan Z. Sheng. “Managing Data From Knowledge Bases:  Querying and Extraction”, *Springer*, 2018. ISBN: 978-3-319-94934-5.
+  
+## Book Chapters
+- A. Mahmood, <b>Wei Emma Zhang</b>, Q. Z. Sheng, S. A. Siddiqui, and A. Aljubairy. “Trust Management for Software-Defined Heterogeneous Vehicular Ad Hoc Networks”. In: *Security, Privacy and Trust in the IoT Environment*. Ed. by Z.
+Mahmood. Springer, 2019, pp. 203–226.
+- A. Mahmood, B. Butler, Q. Z. Sheng, <b>Wei Emma Zhang</b>, and B. Jennings. “Need of Ambient Intelligence for Next-Generation Connected and Autonomous Vehicles”. In: *Guide to Ambient Intelligence in the IoT Environment - Principles, Technologies and Applications*. Ed. by Z. Mahmood. Computer Communications and Networks. Springer, 2019, pp. 133–151. 
+- <b>Wei Emma Zhang</b> and Q. Z. Sheng. “Searching the Big Data: Practices and Experiences in Efficiently Querying Knowledge Bases”. In: *Handbook of Big Data Technologies*. Ed. by A. Y. Zomaya and S. Sakr. Springer, 2017, pp. 429–453.
+- Q. Z. Sheng, J. Yu, <b>Wei Emma Zhang</b>, S. Wang, X. Li, and B. Benatallah. “Designing and Building Context-Aware Services: The ContextServ Project”. In: *Next-Gen Digital Services. A Retrospective and Roadmap for Service Computing of the Future - Essays Dedicated to Michael Papazoglou on the Occasion of His 65th Birthday and His Retirement*. Ed. by M. Aiello, A.Bouguettaya, D. A. Tamburri, and W. van den Heuvel. Vol. 12521. Lecture Notes in Computer Science. Springer, 2021, pp. 138–152. 
+
 ## Journal Papers
 - Weitong Chen, <b>Wei Emma Zhang</b>, and Lin Yue. "Death Comes But Why: A Multi-Task Memory-Fused Prediction for Accurate and Explainable Illness Severity in ICUs", *World Wide Web Journal*. Accepted in September 2023.
 - Taotao Cai, Qi Lei, Quan Z. Sheng, Ningning Cui, Shuiqiao Yang, Jian Yang,
