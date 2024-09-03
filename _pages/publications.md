@@ -18,10 +18,9 @@ Mahmood. Springer, 2019, pp. 203–226.
 - <b>Wei Emma Zhang</b> and Q. Z. Sheng. “Searching the Big Data: Practices and Experiences in Efficiently Querying Knowledge Bases”. In: *Handbook of Big Data Technologies*. Ed. by A. Y. Zomaya and S. Sakr. Springer, 2017, pp. 429–453.
 - Q. Z. Sheng, J. Yu, <b>Wei Emma Zhang</b>, S. Wang, X. Li, and B. Benatallah. “Designing and Building Context-Aware Services: The ContextServ Project”. In: *Next-Gen Digital Services. A Retrospective and Roadmap for Service Computing of the Future - Essays Dedicated to Michael Papazoglou on the Occasion of His 65th Birthday and His Retirement*. Ed. by M. Aiello, A.Bouguettaya, D. A. Tamburri, and W. van den Heuvel. Vol. 12521. Lecture Notes in Computer Science. Springer, 2021, pp. 138–152. 
 
-## Journal Papers
-- Weitong Chen, <b>Wei Emma Zhang</b>, and Lin Yue. "Death Comes But Why: A Multi-Task Memory-Fused Prediction for Accurate and Explainable Illness Severity in ICUs", *World Wide Web Journal*. Accepted in September 2023.
-- Taotao Cai, Qi Lei, Quan Z. Sheng, Ningning Cui, Shuiqiao Yang, Jian Yang,
-<b>Wei Emma Zhang</b>, and Adnan Mahmood. "Reconnecting the Estranged Relationships: Optimizing the Influence Propagation in Evolving Networks", *Transactions on Knowledge and Data Engineering*. Accepted in September 2023.
+## Selected Journal Articles
+[- Weitong Chen, <b>Wei Emma Zhang</b>, and Lin Yue. "Death Comes But Why: A Multi-Task Memory-Fused Prediction for Accurate and Explainable Illness Severity in ICUs", *World Wide Web Journal*. Accepted in September 2023.
+- Taotao Cai, Qi Lei, Quan Z. Sheng, Ningning Cui, Shuiqiao Yang, Jian Yang, <b>Wei Emma Zhang</b>, and Adnan Mahmood. "Reconnecting the Estranged Relationships: Optimizing the Influence Propagation in Evolving Networks", *Transactions on Knowledge and Data Engineering*. Accepted in September 2023.
 - Zhigang Yang, Xinbo Jia, Yahui Shen, Yuanlan Yang, Huiyang Li, and <b>Wei Emma Zhang</b>. "AMGAN: An Attribute-Matched Generative Adversarial Network for UAV Virtual Sample Generation", *Neural Processing Letters*. Accepted in May 2023.
 - Subhash Sagar, Adnan Mahmood, Kai Wang, Quan Z. Sheng, Jitander Kumar Pabani, and <b>Wei Emma Zhang</b>. "Trust-SIoT: Towards Trustworthy Object Classification in Social Internet of Things", *IEEE Transactions on Network and Service Management*. Accepted in February 2023. 
 - Zhigang Yang, Junyu Kong; Binxi Zheng, Ming Li, <b>Wei Emma Zhang</b>, Tao Chen. "Object Detection in Remote Sensing Images with Balanced Rotational and Horizontal Bounding Boxes", *IEEE Geoscience and Remote Sensing Letters*. Accepted in September 2022. 
@@ -55,7 +54,7 @@ Mahmood. Springer, 2019, pp. 203–226.
 - <b>Wei Emma Zhang</b>, Quan Z. Sheng, Lina Yao, Kerry Taylor, Ali Shemshadi and Yongrui Qin. "A Learning Based Framework for Improving Querying on Web Interfaces of Curated Knowledge Bases", *ACM Transactions on Internet Technology*, vol. 18, No. 3, pp 35:1--35:20, 2018. [paper](https://dl.acm.org/doi/10.1145/3155806).
 - Lina Yao, Quan Z. Sheng, Xianzhi Wang, <b>Wei Emma Zhang</b> and Yongrui Qin. "Collaborative Location Recommendation by Integrating Multi-dimensional Contextual Information", *ACM Transactions on Internet Technology*, vol. 18, no. 3, pp 32:1--32:24, 2018. [paper](https://dl.acm.org/doi/10.1145/3134438).
 - <b>Wei Emma Zhang</b>, Quan Z. Sheng, Yongrui Qin, Kerry Taylor, and Lina Yao. "Learning-based SPARQL Query Performance Modeling and Prediction", *World Wide Web Journal* 21, 1015–1035, 2018. [paper](https://link.springer.com/article/10.1007/s11280-017-0498-1#citeas).
--  Ali Shemshadi, Quan Z. Sheng, <b>Wei Emma Zhang</b>, Aixin Sun, Yongrui Qin and Lina Yao. "Searching for the Internet of Things on the Web: Where It Is and What It Looks Like", *Personal and Ubiquitous Computing*, vol. 21, No. 6, pp 2097-1112, 2017. [paper](https://link.springer.com/article/10.1007/s00779-017-1034-0).
+-  Ali Shemshadi, Quan Z. Sheng, <b>Wei Emma Zhang</b>, Aixin Sun, Yongrui Qin and Lina Yao. "Searching for the Internet of Things on the Web: Where It Is and What It Looks Like", *Personal and Ubiquitous Computing*, vol. 21, No. 6, pp 2097-1112, 2017. [paper](https://link.springer.com/article/10.1007/s00779-017-1034-0). ] #
  
 ## Conference Papers
 To be added 
