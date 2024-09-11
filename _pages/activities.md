@@ -42,7 +42,4 @@ To be added
 
 
 ## Funding reviewer
- - ARC Discovery Project (2021, 2022, 2023)
- - ARC Linkage Project (2021, 2022, 2023)
- - ARC Early Career Researcher Award (2021, 2022)
- - ARC Future Fellow (2021, 2022)
+ - ARC Discovery Project/ Linkage Project / Early Career Researcher Award / Future Fellow 
