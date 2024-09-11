@@ -25,7 +25,7 @@ Mahmood. Springer, 2019, pp. 203–226.
 - Q. Z. Sheng, <b>Wei Emma Zhang</b>, and E. M. Shakshuki. “Practices and applications in ambient and intelligent information systems”. In: Pers. Ubiquitous Comput. 21.6 (2017), pp. 1039–1040. doi: 10.1007/S00779-017-1037-X. 
 
 ## Selected Journal Articles
-- H. Zhuang, <b>Wei Emma Zhang</b>, W. Chen, J. Yang, and Q. Z. Sheng. “Improving Faithfulness and Factuality with Contrastive Learning in Explainable Recommendation”. In: *ACM Trans. Intell. Syst.* Technol. Accepted on Feb 2024 (2024).doi: doi: 10.1145/3653984. [paper](https://doi.org/10.1145/36539).
+- H. Zhuang, <b>Wei Emma Zhang</b>, W. Chen, J. Yang, and Q. Z. Sheng. “Improving Faithfulness and Factuality with Contrastive Learning in Explainable Recommendation”. In: *ACM Trans. Intell. Syst.* Technol. Accepted on Feb 2024 (2024). doi: 10.1145/3653984. [paper](https://doi.org/10.1145/36539).
 - Z. Li, Y. Xie, <b>Wei Emma Zhang</b>, P. Wang, L. Zou, F. Li, X. Luo, and C. Li. “Disentangle interest trend and diversity for sequential recommendation”. In: *Inf. Process. Manag.* 61.2 (2024), p. 103619. doi: 10.1016/J.IPM.2023.103619. [paper](https://doi.org/10.1016/j.ipm.2023.103619).
 - Z. Yang, Y. Shen, L. Hou, <b>Wei Emma Zhang</b>, and T. Chen. “S3Seg:A Three-Stage Unsupervised Foreground and Background Segmentation Network”. In: *IEEE Signal Process. Lett.* 31 (2024), pp. 1484–1488. doi: 10.1109/LSP.2024.3404348. [paper](https://doi.org/10.1109/LSP.2024.3404348).
 - C. Ma, <b>Wei Emma Zhang</b>, M. Guo, H. Wang, and Q. Z. Sheng. “Multi-document Summarization via Deep Learning Techniques: A Survey”. In: *ACM Comput. Surv.* 55.5 (2023), 102:1–102:37. doi:10.1145/3529754. [paper](https://doi.org/10.1145/3529754.1).
