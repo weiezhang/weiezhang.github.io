@@ -12,17 +12,16 @@ author_profile: true
 ## Current Supervison
 - Mong Yuan Sim (PhD), The University of Adelaide (Principal supervision). Started in Mar 2024
 - Lipin Guo (PhD), The University of Adelaide (Principal supervision). Started in Mar 2024
-- Alireza Seyed Shakeri (PhD), The University of Adelaide (Principal supervision). Started in Dec 2024
-- Lishan Yang (MPil), The University of Adelaide (Principal supervision). Started in Dec 2023
-- Chang Dong (PhD), The University of Adelaide (co-supervision). Started in July 2023
+- Lishan Yang (MPhil), The University of Adelaide (Principal supervision). Started in Dec 2023
 - Rohit Gopalan (PhD), The University of Adelaide (co-supervision). Started in May 2023
 - Yutong Qu (PhD), The University of Adelaide (principal supervision). Started in April 2023
 - Lauren Yvette Taylor (PhD), The University of Adelaide (co-supervision). Started in February 2023
-- Haojie Zhuang (PhD), The University of Adelaide (principal supervision). Started in October 2021
 - Xinyue Fang (PhD), The University of Adelaide (co-supervision). Started in October 2021
 
 ## Completed Supervision
-- Munazza Zaib (MRes + PhD), Macquarie University (co-supervision). Thesis submitted in Jan 2024, first job as PostDoc in Monash University
+- Chang Dong (MPhil), The University of Adelaide (principal supervision). Thesis submitted in June 2025
+- Haojie Zhuang (PhD), The University of Adelaide (principal supervision). Thesis submitted in April 2025, first job as PostDoc in ANU
+- Munazza Zaib (MRes + PhD), Macquarie University (co-supervision). Awarded in April 2024, first job as PostDoc in Monash University
 - Congbo Ma (PhD), The University of Adelaide (principal supervision). Awarded in Feb 2024, first job as PostDoc in Macquarie University
 -  Ahoud Abdultahmn F Alhazmi (PhD), Macquarie University (co-supervision). Awarded in February 2023, first job as an academic at Umm AI-Qura University
 - Sarah Ali Siddiqui (PhD), Macquarie University (co-supervision). Awarded in Nov 2022, first job as a CSIRO Data61 PostDoc Fellow
