@@ -13,7 +13,7 @@ redirect_from:
 * Congratulations to Mong Yuan Sim for his paper being accepted by ACL 2025.
 * Hosted [EvalMG25 @ COLING 2025](https://evalmg.github.io/), 20 Jan 2025, Abu Dhabi, UAE.
 * Congratulations to Elaf for her long research paper being accepted by the EMNLP 2024 main conference.
-* Being selected as 2024 Young Tall Poppy SA Finalist.
+* 2024 SA Young Tall Poppy Awardee.
 <!--** Congratulations to Chang Dong, Liangwei Zheng, and Haojie Zhuang for 4 papers being accepted by CIKM 2025.
  Congratulations to Yutong Qu on being selected as a 2024 IEEE WISC Scholarship winner.
  *Congratulations to Haojie Zhuang for his paper being accepted by NAACL 2024 main conference.-->
