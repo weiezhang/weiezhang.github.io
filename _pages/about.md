@@ -33,5 +33,5 @@ My current research relates to three specific areas:
 
 ## Recruiting
 I am seeking highly motivated and focused research students with backgrounds and interests in Computer Science, Mathematics, and Engineering. 
-You may look at the scholarship webpage for [domestic and international scholarships](https://www.adelaide.edu.au/graduate-research/scholarships#summary-of-main-hdr-scholarships). For further enquiries, please email me directly. 
+You may look at the scholarship webpage for [domestic and international scholarships](https://adelaideuni.edu.au/research/research-degrees/research-scholarships/). For further enquiries, please email me directly. 
 
