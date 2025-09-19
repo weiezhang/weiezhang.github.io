@@ -9,10 +9,14 @@ author_profile: true
 {% include base_path %}
 
 
-## Current Supervison
+## Current Supervision
+- Jingyu Duan (PhD), The University of Adelaide (Principal supervision). Started in September 2025
+- Nam Kha Nguyen (MPhil), The University of Adelaide (Principal supervision). Started in August 2025
+- Xiaoyang Li (PhD), (Principal supervision). Started in June 2025 
 - Mong Yuan Sim (PhD), The University of Adelaide (Principal supervision). Started in Mar 2024
 - Lipin Guo (PhD), The University of Adelaide (Principal supervision). Started in Mar 2024
 - Lishan Yang (MPhil), The University of Adelaide (Principal supervision). Started in Dec 2023
+- Elaf Abdulrahman Alhazmi (PhD). Macquarie University (co-supervision). Started in May 2023
 - Yutong Qu (PhD), The University of Adelaide (principal supervision). Started in April 2023
 - Lauren Yvette Taylor (PhD), The University of Adelaide (co-supervision). Started in February 2023
 - Xinyue Fang (PhD), The University of Adelaide (co-supervision). Started in October 2021
