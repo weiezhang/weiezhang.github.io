@@ -12,7 +12,7 @@ author_profile: true
 ## Current Supervision
 - Jingyu Duan (PhD), The University of Adelaide (Principal supervision). Started in September 2025
 - Nam Kha Nguyen (MPhil), The University of Adelaide (Principal supervision). Started in August 2025
-- Xiaoyang Li (PhD), (Principal supervision). Started in June 2025 
+- Xiaoyang Li (PhD), The University of Adelaide (Principal supervision). Started in June 2025 
 - Mong Yuan Sim (PhD), The University of Adelaide (Principal supervision). Started in Mar 2024
 - Lipin Guo (PhD), The University of Adelaide (Principal supervision). Started in Mar 2024
 - Lishan Yang (MPhil), The University of Adelaide (Principal supervision). Started in Dec 2023
