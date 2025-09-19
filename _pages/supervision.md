@@ -22,7 +22,7 @@ author_profile: true
 - Xinyue Fang (PhD), The University of Adelaide (co-supervision). Started in October 2021
 
 ## Completed Supervision
-- Yiran Jiao (PhD), The University of Adelaide(co-supervision), Thesis submitted in June 2025, fist job as PostDoc in UoA
+- Yiran Jiao (PhD), The University of Adelaide (co-supervision), Thesis submitted in June 2025, fist job as PostDoc in UoA
 - Chang Dong (MPhil), The University of Adelaide (principal supervision). Thesis submitted in June 2025
 - Haojie Zhuang (PhD), The University of Adelaide (principal supervision). Awarded in July 2025, first job as PostDoc in ANU
 - Munazza Zaib (MRes + PhD), Macquarie University (co-supervision). Awarded in April 2024, first job as PostDoc in Monash University
