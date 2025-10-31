@@ -20,16 +20,18 @@ redirect_from:
  Congratulations to Yutong Qu on being selected as a 2024 IEEE WISC Scholarship winner.
  Congratulations to Haojie Zhuang for his paper being accepted by NAACL 2024 main conference.-->
 
-## Short Bio
-I am currently a Senior Lecturer and Associate Head of People and Culture at [The School of Computer and Mathematical Sciences](https://set.adelaide.edu.au/mathematical-sciences), an academic member of [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/), [The University of Adelaide](http://www.adelaide.edu.au). I am also an Honorary Lecturer at [The School of Computing](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing), [Macquarie University](http://www.mq.edu.au/).  
-I obtained PhD from the School of Computer Science at the University of Adelaide. Before joining The University of Adelaide, I spent two years at Macquarie University as a Postdoctoral Research Fellow. 
+##  Bio
+I am a Senior Lecturer and Associate Head of People and Culture at the School of Computer and Mathematical Sciences, and a researcher at the Australian Institute for Machine Learning (AIML), The University of Adelaide. I am also an Honorary Lecturer at the School of Computing, Macquarie University. I received my PhD degree from the University of Adelaide in Computer Science.
+I am a devoted researcher on distributed systems, natural language processing, text mining, and machine learning and author of over 140 publications. My TIST article was selected as the top 5 outstanding article by Editor-in-Chief in 2022.I am among the top 100 authors worldwide, ranked by field-weighted citation impact, in the SciVal topic for Network Security.  I currently hold an ARC Early Career Industry Fellowship (IE230100119) and am the lead investigator of an ARC Discovery Project (DP240103070) and Linkage Project (LP230200821 ). My works have received academia and industry funding (ARC, Google, DST, etc.) worth > AUD $3M.  I am the recipient of South Australia Young Tall Poppy Award (2024), Women of Colour in STEM Award (2025, Data Science/AI Pioneer category)，Women in AI Asia-Pacific Award finalist (2024, AI in Agribusiness and Rural Development category). 
+
+I have been actively engaged in professional services by serving as conference organizers, conference PC members and reviewer of journals such as ACM/IEEE Trans., IJCAI, ACL, WWW, and KDD, and assessors of ARC funding applications. I also continually develops her leadership by serving as Associate Head of People & Culture, Program Coordinator, Course Coordinator, and outreach contact at the school. I have six-year industry working experiences in multiple roles and has strong industry engagements.
+I am the member of ACM, IEEE, and ACS.
 		
 ## Research Interests
- My interest areas include text mining, natural language processing, information retrieval and Internet of Things applications, but not limited to.
-My current research relates to three specific areas: 
+Text mining, natural language processing, information retrieval and Artificial Intelligence of Things of Things applications, but not limited to.
+Current research focues: 
 - Multimodal generation and evaluation
 - Federated Learning in NLP
-- Adversarial attacks on sequential data
 - Artificial Intelligence of Things	
 
 ## Recruiting
