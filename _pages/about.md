@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 ## News
+* A collaboration work has been accepted by AAAI 2026. Congratulations!
 * My promotion to Associate Professor has been approved and will take effective from Jan 1 2026.
 * Congratulations to Mong Yuan Sim and Elaf Alhazmi for two papers being accepted by the EMNLP 2025.
 * Congratulations to Wenhao Liang, Liangwei Zheng, and Lishan Yang for 4 papers being accepted by CIKM 2025.
 * Congratulations to Liangwei Zheng for his paper being accepted by KDD 2025.
-* Congratulations to Mong Yuan Sim for his paper being accepted by ACL 2025.
-<!-- Hosted [EvalMG25 @ COLING 2025](https://evalmg.github.io/), 20 Jan 2025, Abu Dhabi, UAE.
+<!-- * Congratulations to Mong Yuan Sim for his paper being accepted by ACL 2025.
+ Hosted [EvalMG25 @ COLING 2025](https://evalmg.github.io/), 20 Jan 2025, Abu Dhabi, UAE.
  Congratulations to Elaf for her long research paper being accepted by the EMNLP 2024 main conference.
 2024 SA Young Tall Poppy Awardee.
  Congratulations to Chang Dong, Liangwei Zheng, and Haojie Zhuang for 4 papers being accepted by CIKM 2024.
