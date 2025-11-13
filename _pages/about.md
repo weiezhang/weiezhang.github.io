@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## News
-* A collaboration work has been accepted by AAAI 2026. Congratulations!
+* A collaboration work has been accepted by AAAI 2026. Congratulations to Hui Zhang.
 * My promotion to Associate Professor has been approved and will take effective from Jan 1 2026.
 * Congratulations to Mong Yuan Sim and Elaf Alhazmi for two papers being accepted by the EMNLP 2025.
 * Congratulations to Wenhao Liang, Liangwei Zheng, and Lishan Yang for 4 papers being accepted by CIKM 2025.
