@@ -34,7 +34,7 @@ I am the member of ACM, IEEE, and ACS.
 </div>
 		
 ## Research Interests
-Text mining, natural language processing, information retrieval and Artificial Intelligence of Things of Things applications, but not limited to.
+Text mining, natural language processing, information retrieval and Artificial Intelligence of Things applications, but not limited to.
 Current research focues: 
 - Multimodal generation and evaluation
 - Federated Learning in NLP
