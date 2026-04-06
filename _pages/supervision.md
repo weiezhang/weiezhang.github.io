@@ -10,6 +10,7 @@ author_profile: true
 
 
 ## Current Supervision
+- Qichen Zhao (PhD)，Adelaide University (Co-supervision). Started in April 2026
 - Huanwei Xu (PhD)， Adelaide University (Principal supervision). Started in February 2026
 - Jingyu Duan (PhD), The University of Adelaide (Principal supervision). Started in September 2025
 - Nam Kha Nguyen (MPhil), The University of Adelaide (Principal supervision). Started in August 2025
