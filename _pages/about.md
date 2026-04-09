@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## News
+* Congratulations to Mong Yuan Sim for his paper being accepted by the ACL 2026.
 * Call for papers: [The Second Workshop on Evaluation for Multimodal Generation @ SIGIR'26](https://evalmg.github.io/).
 * Awarded 2025 Executive Dean's Staff Awards for Mid-Career Research Excellence.
 * A collaboration work has been accepted by AAAI 2026. Congratulations to Hui Zhang.
