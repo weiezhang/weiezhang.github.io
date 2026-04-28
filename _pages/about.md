@@ -9,13 +9,14 @@ redirect_from:
 ---
 
 ## News
+* Congratulations to Lishan Yang for his paper accepted by IJCAI 2026 (Special Track on AI and Health).
 * One colalborative paper has been accepted by CVPR 2026. Congratulations to Zhifang Zhang.
 * Call for papers: [The Second Workshop on Evaluation for Multimodal Generation @ SIGIR'26](https://evalmg.github.io/).
 * Awarded 2025 Executive Dean's Staff Awards for Mid-Career Research Excellence.
 * A collaboration work has been accepted by AAAI 2026. Congratulations to Hui Zhang.
 * My promotion to Associate Professor has been approved and will take effective from Jan 1 2026.
-* Congratulations to Mong Yuan Sim and Elaf Alhazmi for two papers being accepted by the EMNLP 2025.
-<!-- * Congratulations to Wenhao Liang, Liangwei Zheng, and Lishan Yang for 4 papers being accepted by CIKM 2025.
+<!--* Congratulations to Mong Yuan Sim and Elaf Alhazmi for two papers being accepted by the EMNLP 2025.
+ * Congratulations to Wenhao Liang, Liangwei Zheng, and Lishan Yang for 4 papers being accepted by CIKM 2025.
  Congratulations to Liangwei Zheng for his paper being accepted by KDD 2025.
  Congratulations to Mong Yuan Sim for his paper being accepted by ACL 2025.
  Hosted [EvalMG25 @ COLING 2025](https://evalmg.github.io/), 20 Jan 2025, Abu Dhabi, UAE.
