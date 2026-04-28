@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## News
-* Congratulations to Lishan Yang for his paper accepted by IJCAI 2026 (Special Track on AI and Health).
+* Congratulations to Lishan Yang for his paper being accepted by IJCAI 2026 (Special Track on AI and Health).
 * One colalborative paper has been accepted by CVPR 2026. Congratulations to Zhifang Zhang.
 * Call for papers: [The Second Workshop on Evaluation for Multimodal Generation @ SIGIR'26](https://evalmg.github.io/).
 * Awarded 2025 Executive Dean's Staff Awards for Mid-Career Research Excellence.
