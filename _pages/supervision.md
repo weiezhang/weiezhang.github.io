@@ -19,7 +19,7 @@ author_profile: true
 - Mong Yuan Sim (PhD), The University of Adelaide (Principal supervision). Started in March 2024
 - Elaf Abdulrahman Alhazmi (PhD), Macquarie University (Co-supervision). Started in May 2023
 - Yutong Qu (PhD), The University of Adelaide (Principal supervision). Started in April 2023
-- Lauren Yvette Taylor (PhD), The University of Adelaide (Co-supervision). Started in February 2023
+- Lauren Yvette Taylor (PhD, part-time), The University of Adelaide (Co-supervision). Started in February 2023
 
 ## Completed Supervision
 - Lishan Yang (MPhil), The University of Adelaide (Principal supervision). Awarded in Jan 2026
