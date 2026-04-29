@@ -10,6 +10,7 @@ author_profile: true
 
 
 ## Current Supervision
+- He Zhang (PhD), Adelaide University (Principal supervision). Started in April 2026
 - Qichen Zhao (PhD)，Adelaide University (Co-supervision). Started in April 2026
 - Huanwei Xu (PhD)， Adelaide University (Principal supervision). Started in February 2026
 - Jingyu Duan (PhD), The University of Adelaide (Principal supervision). Started in September 2025
