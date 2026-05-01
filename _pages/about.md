@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## News
-* [May 2026] Congratulations to Liangwei Zheng (ARC DP supported) for his paper being accepted by IJCAI 2026 (Main Track).
+* [May 2026] Congratulations to Liangwei Zheng (ARC DP supported) for his paper being accepted by ICML 2026.
 * [May 2026] Congratulations to Liangwei Zheng (ARC DP supported) for his paper being accepted by IJCAI 2026 (Survey Track).
 * [Apr 2026] Congratulations to Lishan Yang for his paper being accepted by IJCAI 2026 (Special Track on AI and Health).
 * [Apr 2026] One colalborative paper has been accepted by CVPR 2026. Congratulations to Zhifang Zhang (ARC DP supported).
