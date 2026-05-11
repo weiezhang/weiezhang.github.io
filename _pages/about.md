@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 ## News
-* [May 2026] Congratulations to Liangwei Zheng (ARC DP supported) for his paper being accepted by ICML 2026.
-* [May 2026] Congratulations to Liangwei Zheng (ARC DP supported) for his paper being accepted by IJCAI 2026 (Survey Track).
-* [Apr 2026] Congratulations to Lishan Yang for his paper being accepted by IJCAI 2026 (Special Track on AI and Health).
-* [Apr 2026] One colalborative paper has been accepted by CVPR 2026. Congratulations to Zhifang Zhang (ARC DP supported).
+* [May 2026] One paper being accepted by ICML 2026. Congratulations to Liangwei Zheng (ARC DP supported).
+* [May 2026] One paper has accepted by IJCAI 2026 (Survey Track). Congratulations to Liangwei Zheng (ARC DP supported).
+* [Apr 2026] One paper has accepted by IJCAI 2026 (Special Track on AI and Health). Congratulations to Lishan Yang. 
+* [Apr 2026] One paper has been accepted by CVPR 2026. Congratulations to Zhifang Zhang (ARC DP supported).
 * [Jan 2026 ] Call for papers: [The Second Workshop on Evaluation for Multimodal Generation @ SIGIR'26](https://evalmg.github.io/).
 <!--* [Dec 2025] Awarded 2025 Executive Dean's Staff Awards for Mid-Career Research Excellence.
  [Nov 2025] A collaboration work has been accepted by AAAI 2026. Congratulations to Hui Zhang.
