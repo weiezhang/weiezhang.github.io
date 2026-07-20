@@ -38,7 +38,7 @@ I am a devoted researcher on distributed systems, natural language processing, t
 I have been actively engaged in professional services by serving as conference organizers, conference PC members and reviewer of journals such as ACM/IEEE Trans., IJCAI, ACL, WWW, and KDD, and assessors of ARC funding applications. I also continually develops my leadership by serving as Associate Head of People & Culture, Program Coordinator, Course Coordinator, and outreach contact at the school. I have six-year industry working experiences in multiple roles and has strong industry engagements.
 I am the member of ACM, IEEE, and ACS.
 
-My university' profile page is [here](https://researchers.adelaide.edu.au/profile/wei.e.zhang). 
+My university' profile page is [here](https://researchers.adelaide.edu.au/profile/wei.e.zhang).
 </div>
 		
 ## Research Interests
