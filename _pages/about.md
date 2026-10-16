@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 ## News
+* [Sep 2026] Two papers have been accpeted by EMNLP and on paper has been accpeted by ICDM.  Congratulations to Nam Kha Nguyen, Xiaoyang Li and Mongyuan Sim. 
 * [July 2026] Welcome to join [The Second Workshop on Evaluation for Multimodal Generation @ SIGIR'26](https://evalmg.github.io/).
 * [July 2026] One paper has been accepted by ACM MM 2026. Congratulations to Zechao Sun.
 * [May 2026] One paper has been accepted by ICML 2026. Congratulations to Liangwei Zheng (ARC DP supported).
 * [May 2026] One paper has been accepted by IJCAI 2026 (Survey Track). Congratulations to Liangwei Zheng (ARC DP supported).
-* [Apr 2026] One paper has been accepted by IJCAI 2026 (Special Track on AI and Health). Congratulations to Lishan Yang. 
-<!-- [Apr 2026] One paper has been accepted by CVPR 2026. Congratulations to Zhifang Zhang (ARC DP supported).
+<!-- [Apr 2026] One paper has been accepted by IJCAI 2026 (Special Track on AI and Health). Congratulations to Lishan Yang. 
+ [Apr 2026] One paper has been accepted by CVPR 2026. Congratulations to Zhifang Zhang (ARC DP supported).
  [Jan 2026 ] Call for papers: [The Second Workshop on Evaluation for Multimodal Generation @ SIGIR'26](https://evalmg.github.io/).
  [Dec 2025] Awarded 2025 Executive Dean's Staff Awards for Mid-Career Research Excellence.
  [Nov 2025] A collaboration work has been accepted by AAAI 2026. Congratulations to Hui Zhang.
@@ -38,17 +39,18 @@ I am a devoted researcher on distributed systems, natural language processing, t
 I have been actively engaged in professional services by serving as conference organizers, conference PC members and reviewer of journals such as ACM/IEEE Trans., IJCAI, ACL, WWW, and KDD, and assessors of ARC funding applications. I also continually develops my leadership by serving as Associate Head of People & Culture, Program Coordinator, Course Coordinator, and outreach contact at the school. I have six-year industry working experiences in multiple roles and has strong industry engagements.
 I am the member of ACM, IEEE, and ACS.
 
-My university' profile page is [here](https://researchers.adelaide.edu.au/profile/wei.e.zhang).
+My university' profile page is[here](https://researchers.adelaide.edu.au/profile/wei.e.zhang).
 </div>
 		
 ## Research Interests
 Text mining, natural language processing, information retrieval and Artificial Intelligence of Things applications, but not limited to.
 Current research focues: 
-- Multimodal generation and evaluation
+- Multimodal learning and evaluation
+- Time series learning
 - Federated Learning in NLP
 - Artificial Intelligence of Things	
 
 ## Recruiting
 I am seeking highly motivated and focused research students with backgrounds and interests in Computer Science, Mathematics, and Engineering. 
-You may look at the scholarship webpage for [domestic and international scholarships](https://adelaideuni.edu.au/research/research-degrees/research-scholarships/). For further enquiries, please email me directly. 
+You may look at the scholarship webpage for [research scholarships](https://adelaide.edu.au/research/research-degrees/research-scholarships/). For further enquiries, please email me directly. 
 
