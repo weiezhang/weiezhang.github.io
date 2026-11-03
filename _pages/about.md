@@ -10,7 +10,7 @@ redirect_from:
 
 ## News
 * [Oct 2026] Honoured to be selected as Outstanding Senior Area Chair from EMNLP 2026!
-* [Sep 2026] Two papers have been accpeted by EMNLP and on paper has been accpeted by ICDM.  Congratulations to Nam Kha Nguyen, Xiaoyang Li and Mongyuan Sim. 
+* [Sep 2026] Two papers have been accpeted by EMNLP 2026 and on paper has been accpeted by ICDM 2026.  Congratulations to Nam Kha Nguyen, Xiaoyang Li and Mongyuan Sim. 
 * [July 2026] Welcome to join [The Second Workshop on Evaluation for Multimodal Generation @ SIGIR'26](https://evalmg.github.io/).
 * [July 2026] One paper has been accepted by ACM MM 2026. Congratulations to Zechao Sun.
 * [May 2026] One paper has been accepted by ICML 2026. Congratulations to Liangwei Zheng (ARC DP supported).
